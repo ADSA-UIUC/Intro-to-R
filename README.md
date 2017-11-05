@@ -1,5 +1,5 @@
 
-# Intro to R: Advanced Python Workshop
+# Intro to R
 Introductory class using the Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
 ## Please sign in using the following link: 
